@@ -1,4 +1,4 @@
-# deep-learning-image-similarity
+# AI-Powered Image Similarity Search and Recommendation System
 AI-powered image similarity search and recommendation system using deep learning 
 ## 📊 Dashboard – Image Similarity Search System
 
