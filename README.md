@@ -19,7 +19,9 @@ The solution is suitable for e-commerce platforms, fashion recommendation system
 5) Retrieval and ranking of top similar images.
 6) Display recommended images to the user.
 
-##project/
+## 📁 Project Structure
+```
+project/
 │
 ├── dataset/
 ├── models/
@@ -28,6 +30,7 @@ The solution is suitable for e-commerce platforms, fashion recommendation system
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Dataset
 The project uses a publicly available Kaggle fashion dataset containing over 5,000 images of clothing items including:
